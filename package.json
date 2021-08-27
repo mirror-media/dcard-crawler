@@ -1,0 +1,14 @@
+{
+  "name": "dcardBaron",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Baron Chiu",
+  "license": "MIT",
+  "dependencies": {
+    "@google-cloud/pubsub": "^2.16.6",
+    "@google-cloud/storage": "^5.13.1",
+    "node-fetch": "^2.6.1",
+    "stream": "^0.0.2",
+    "unirand": "^2.12.2"
+  }
+}
